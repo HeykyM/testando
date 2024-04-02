@@ -1,11 +1,58 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="js.js"></script>
+    <link rel="shortcut icon" href="img/BleachSkull.png">
+    <title>Bleachpedia</title>
 </head>
 <body>
-    <p>isso é só um teste</p>
+    <header>
+        <a href="Bleachpedia.html"><img src="img/LogoBleach.png" alt="logo" class="logo"></a>
+        <nav class="navigation">
+            <ul>
+                <li><a href="#">História</a></li>
+                <li><a href="Personagens.html">Personagens</a></li>
+                </li>
+                <li><a href="#">Jogos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <img src="img/logo.png" alt="logo bleach" class="logob">
+            <div class="btn-box">
+                <a href="https://mangananquim.com/ler-manga/bleach/" class="btn" target="_blank">Mangá</a>
+                <a href="https://animesonlinecc.to/anime/bleach/" class="btn" target="_blank">Anime</a>
+                <a href="https://bleachbrasiltv.blogspot.com/p/light-novels.html?fbclid=IwAR02YwYNon3DKJxUxkChdcAvEaojFRo2eRhYsKKr_3EZLPbfiu4VTbH5huQ" class="btn" target="_blank">Novel</a>
+            </div>
+            <p class="text">Ichigo Kurosaki é um garoto de 15 anos que tem uma estranha 
+                capacidade de ver, tocar e falar com espíritos de pessoas mortas. Logo que 
+                a shinigami Rukia Kuchiki toma conhecimento dos poderes de Ichigo, vai atrás 
+                dele para investigar, e acaba em uma luta com um Hollow que foi atraído pelo 
+                forte poder espiritual de Ichigo. Antes de ser derrotada pela criatura, 
+                Rukia passa seus poderes a Ichigo, o qual se torna um shinigami, e após 
+                derrotar o Hollow ingressa em uma jornada para proteger os humanos e os 
+                espíritos da ameaça dos Hollows.</p>
+            <div class="play">
+                <a onclick="toggleVideo()"><img src="img/botao-play.png">Trailer</a>
+            </div>
+            <div class="trailer">
+                <video src="midia/Official JUMP FESTA Trailer Bleach Thousand-Year Blood War.mp4" controls="true" autoplay="true"></video>
+                <img src="img/close.png" class="close" onclick="toggleVideo()">
+            </div>
+        </section>
+    </main>
+    <footer>
+            <div class="media-icons">
+                <a href="https://www.instagram.com/bleachpediaoficial/" target="_blank"><img src="img/insta.png" alt="instagram" class="redes1"></a>
+                <a href="https://twitter.com/Bleachpdia28195" target="_blank"><img src="img/twitter.webp" alt="twitter" class="redes2"></a>
+                <a href="https://www.facebook.com/groups/938951077409907" target="_blank"><img src="img/face.png" alt="instagram" class="redes3"></a>
+            </div>
+    </footer>
 </body>
 </html>
