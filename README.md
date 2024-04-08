@@ -20,11 +20,12 @@ Não conhece Bleach? Confira a nossa página https://heykym.github.io/testando/
 
 Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 
-Bankai!
-
 <h3>Canais para contato:</h3>
 
 <a href='https://www.facebook.com/groups/938951077409907'><img src='https://static.vecteezy.com/system/resources/previews/016/716/447/original/facebook-icon-free-png.png' width='40'></a>
 <a href='https://www.instagram.com/bleachpediaoficial/?next=%2F'><img src='https://imagepng.org/instagram-icone-icon/instagram-icone-icon-1/' width='40'></a> <a href='https://twitter.com/BleachpediaOfc'><img src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png' width='40'></a>
 
 <h3>Desenvolvedores do Projeto</h3>
+
+| <a src="(https://github.com/HeykyM)">[<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Heyky Martins Moura</sub>]</a>(https://github.com/HeykyM)<br>HTML e CSS|  [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Matheus Arlindo Silva de jesus</sub>](https://github.com/matheusarlindo-aluno)<br>HTML e CSS |  [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Miguel Galdino Silva</sub>](https://github.com)<br>Canva e JavaScript |
+| :---: | :---: | :---: |
