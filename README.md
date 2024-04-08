@@ -27,6 +27,5 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 
 <h3>Desenvolvedores do Projeto</h3>
 
-|<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Heyky Martins Moura</sub><br>|
-|<a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="30"></a>      <a href="https://github.com/HeykyM"><img src="https://camo.githubusercontent.com/768c5f87824d4e1b72d3ef77298cd999ff51576e3dad64b42b2c3faac7b2e852/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f32352f32353233312e706e67" width="30"></a>||
+|<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Heyky Martins Moura</sub><br><a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="30"></a>      <a href="https://github.com/HeykyM"><img src="https://camo.githubusercontent.com/768c5f87824d4e1b72d3ef77298cd999ff51576e3dad64b42b2c3faac7b2e852/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f32352f32353233312e706e67" width="30"></a>|
 |:---:|:---:|:---:|
