@@ -144,6 +144,15 @@ main section .text {
     display: inline-block;
 }
 
+/*.media-icons {
+    color: aliceblue;
+    text-align: right;
+    width: 1865px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}*/
+
 .media-icons a{
     color: #fff;
     font-size: 1.6em;
@@ -160,6 +169,8 @@ main section .text {
 }
 
 .media-icons{
+    /*z-index: 888;*/
+    /*position: absolute;*/
     right: 30px;
     display: flex;
     flex-direction: column;
@@ -179,17 +190,19 @@ main section .text {
     left: 100px;
     align-items: center;
     color: aliceblue;
+    /*font-weight: bolder;*/
     text-decoration: none;
+    /*letter-spacing: 1px;*/
     font-size: 1.2em;
     cursor:pointer;
-    background: #0f79af; 
-    padding: 15px 45px; 
-    margin-top: 2em; 
-    border-radius: 5px 5px 0 0; 
-    border-bottom: 4px solid aliceblue;
-    font-size: 30px; 
-    gap: 15px;
-    transition: all .3s;
+    background: #0f79af; /*novo*/
+    padding: 15px 45px; /*novo*/
+    margin-top: 2em; /*novo*/
+    border-radius: 5px 5px 0 0; /*novo*/
+    border-bottom: 4px solid aliceblue; /*novo*/
+    font-size: 30px; /*novo*/
+    gap: 15px;/*novo*/
+    transition: all .3s;/*novo*/
 }
 
 .play img{
