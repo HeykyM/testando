@@ -67,3 +67,9 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
       <td><a href="https://www.linkedin.com/in/gustavo-rezende-paz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="26"></a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td><img src="https://media.licdn.com/dms/image/D5603AQEaDCnOOMbsVQ/profile-displayphoto-shrink_800_800/0/1683295974240?e=2147483647&v=beta&t=CTHMyNVZcgyEH_C2yPXtt1yT3Ea_PjWSQh637U26a9w" width="50"><br>Heyky Martins Moura</td>
+  </tr>
+</table>
