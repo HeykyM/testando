@@ -53,17 +53,16 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 <table>
   <tr>
     <td><img src="https://media.licdn.com/dms/image/D5603AQEaDCnOOMbsVQ/profile-displayphoto-shrink_800_800/0/1683295974240?e=2147483647&v=beta&t=CTHMyNVZcgyEH_C2yPXtt1yT3Ea_PjWSQh637U26a9w" width="50"></td>
-    <td>Heyky Martins Moura</td>
     <td><a href="https://github.com/HeykyM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></td>
      <td><a href="https://www.linkedin.com/in/enzo-mikami-4113a1265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="26"></a></td>
   </tr>
   <tr>
-    <td>Matheus Arlindo Silva de jesus</td>
+    <td><img src="https://scontent.fcgh3-1.fna.fbcdn.net/v/t1.6435-9/130734266_2101410599994072_8097928050775357039_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHpO_kvUWFf0VgxPvCNWPMR0ycurG_bm0DTJy6sb9ubQPtg8iZ3jj7JArr1A36OPrwaIwA-3urQs1FoMixee1Rl&_nc_ohc=iXBO_pQh3jkAb6yf8OM&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfA35CAfOlGlDeUnYloj-38ujIsTqZ_Pnf0NMl6zAMURHQ&oe=663CB496" width="50"></td>
     <td><a href="https://github.com/matheusarlindo-aluno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></td>
       <td><a href="https://www.linkedin.com/in/gabriela-cristina-samor/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="26"></a></td>
   </tr>
   <tr>
-    <td>Miguel Galdino Silva</td>
+    <td><img src="https://scontent.fcgh3-1.fna.fbcdn.net/v/t39.30808-6/419210463_2391244721084027_6356366896361108784_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGsLrqBBE8xCM4kl6WXNNgYGjE7w1dyaXcaMTvDV3Jpd4bUKwTzORzr_ja61b9fYl1N_7pLjQmP-H-GjJm6yUz3&_nc_ohc=dmtrAGWGapcAb7BYfry&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfCTMRMmoSiD0JwWZwyEXzfDpjCqWbayosyyjLsIfJe-Xw&oe=661B3656" width="50"></td>
     <td><a href="https://github.com/galdinoposeidon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></td>
       <td><a href="https://www.linkedin.com/in/gustavo-rezende-paz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="26"></a></td>
   </tr>
