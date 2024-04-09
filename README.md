@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0-green)  ![date](https://img.shields.io/badge/release%20date-%20march%202024-blue) ![status](https://img.shields.io/badge/status-%20under%20development-yellow)
 
-  #Indíce
+  Indíce
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
