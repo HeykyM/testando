@@ -70,6 +70,6 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 
 <table>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/D5603AQEaDCnOOMbsVQ/profile-displayphoto-shrink_800_800/0/1683295974240?e=2147483647&v=beta&t=CTHMyNVZcgyEH_C2yPXtt1yT3Ea_PjWSQh637U26a9w" width="50"><br>Heyky Martins Moura</td>
+    <td><img src="https://media.licdn.com/dms/image/D5603AQEaDCnOOMbsVQ/profile-displayphoto-shrink_800_800/0/1683295974240?e=2147483647&v=beta&t=CTHMyNVZcgyEH_C2yPXtt1yT3Ea_PjWSQh637U26a9w" width="120"><br>Heyky Martins Moura</td>
   </tr>
 </table>
