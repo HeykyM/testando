@@ -33,4 +33,5 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 |<a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="30"></a>|2|3|
 |4|5|6|
 |:---:|:---:|:---:|
+|:---:|:---:|:---:|
 
