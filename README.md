@@ -73,6 +73,6 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
     <td><img src="https://media.licdn.com/dms/image/D5603AQEaDCnOOMbsVQ/profile-displayphoto-shrink_800_800/0/1683295974240?e=2147483647&v=beta&t=CTHMyNVZcgyEH_C2yPXtt1yT3Ea_PjWSQh637U26a9w" width="120"><br>Heyky Martins Moura</td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/" align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-circle-1868976-1583140.png?f=webp" width="30"></a>                    <a href="https://github.com/HeykyM"><img src="https://cdn-icons-png.freepik.com/512/733/733609.png" width="30"></a></td>
+    <td><a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/" align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-circle-1868976-1583140.png?f=webp" width="30"></a> <a href="https://github.com/HeykyM"><img src="https://cdn-icons-png.freepik.com/512/733/733609.png" width="30"></a></td>
   </tr>
 </table>
