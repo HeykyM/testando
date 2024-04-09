@@ -14,7 +14,11 @@
 
 ##  O que é Bleachpédia?
 
-O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
+O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
+* Descrições dos personagens
+* Resumo da história
+* Jogos da franquia
+* Acessar conteúdos como o mangá, anime e até mesmo a novel
 
 O Bleachpédia é construído de uma forma de fácil entendimento, para que o usuário possa encontrar facilmente todo tipo de informações sobre Bleach, como história, personagens, anime, mangá, novel e jogos.
 
