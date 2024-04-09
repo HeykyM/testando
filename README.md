@@ -44,7 +44,7 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
     <th>Linkedin</th>
   </tr>
   <tr>
-    **<td>Heyky Martins Moura</td>**
+    <th><td>Heyky Martins Moura</td></th>
     <td><a href="https://github.com/HeykyM"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
      <td><a href="https://www.linkedin.com/in/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
