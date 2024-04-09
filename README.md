@@ -15,7 +15,7 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Desenvolvedores do Projeto](#conclusão)
+* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
 
