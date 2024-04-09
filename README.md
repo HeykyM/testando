@@ -12,8 +12,7 @@
 * [Canais para Contato](#canais-para-contato)
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 
-## 🚨 Os principais problemas que nossa solução busca solucionar são:
-- **Dificuldade no Agendamento:** Muitos clientes enfrentam dificuldades ao tentar agendar serviços de banho e tosa devido a processos complexos ou falta de clareza nos horários disponíveis.<br>
+##  O que é Bleachpédia?
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
 
