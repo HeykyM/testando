@@ -74,5 +74,6 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/" align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-circle-1868976-1583140.png?f=webp" width="30"></a>|<sub><a href="https://github.com/HeykyM"><img src="https://cdn-icons-png.freepik.com/512/733/733609.png" width="30"></a></td>
+      |:---:|
   </tr>
 </table>
