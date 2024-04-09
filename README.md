@@ -50,11 +50,11 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
   </tr>
   <tr>
     <td>Matheus Arlindo Silva de Jesus</td>
-    <td><a href="https://github.com/matheusarlindo-aluno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-      <td><a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="26"></a></td>
+    <td><a href="https://github.com/matheusarlindo-aluno"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
+      <td><a href="https://www.linkedin.com/in/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
   <tr>
     <td>Miguel Galdino Silva</td>
-    <td><a href="https://github.com/galdinoposeidon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-      <td><a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="26"></a></td>
+    <td><a href="https://github.com/galdinoposeidon"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
+      <td><a href="https://www.linkedin.com/in/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
