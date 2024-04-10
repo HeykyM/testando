@@ -1,7 +1,5 @@
 <h1 align="center"><img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='140' align='left'> Bleachpédia </h1>
 
-![version](https://img.shields.io/badge/version-1.0-green)  ![date](https://img.shields.io/badge/release%20date-%20march%202024-blue) ![status](https://img.shields.io/badge/status-%20under%20development-yellow)
-
 
 
 # Índice 
