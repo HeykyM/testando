@@ -1,4 +1,5 @@
-<h1 align="center"><img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='80' align='left'> Bleachpédia </h1>
+|<h1 align="center"><img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='80' align='left'> Bleachpédia </h1>|
+|:---:|
 
 
 
