@@ -2,16 +2,23 @@
 
 ![version](https://img.shields.io/badge/version-1.0-green)  ![date](https://img.shields.io/badge/release%20date-%20march%202024-blue) ![status](https://img.shields.io/badge/status-%20under%20development-yellow)
 
-  Indíce
+
+
+# Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
-* [Ferramentas Utilizadas](#ferramentas-utilizadas)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Canais para Contato](#canais-para-contato)
-* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
-
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+  
 ##  O que é Bleachpédia?
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
