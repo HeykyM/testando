@@ -52,15 +52,15 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
   <tr>
     <td>Heyky Martins Moura</td>
     <td><a href="https://github.com/HeykyM"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
-     <td><a href="https://www.linkedin.com/in/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
+     <td><a href="https://www.linkedin.com/in/heyky-martins-moura-799991268/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
   <tr>
     <td>Matheus Arlindo Silva de Jesus</td>
     <td><a href="https://github.com/matheusarlindo-aluno"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
-      <td><a href="https://www.linkedin.com/in/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
+      <td><a href="https://www.linkedin.com/in/matheus-arlindo-0a7670268/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
   <tr>
     <td>Miguel Galdino Silva</td>
     <td><a href="https://github.com/galdinoposeidon"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
-      <td><a href="https://www.linkedin.com/in/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
+      <td><a href="https://www.linkedin.com/in/miguel-galdino-silva-477758260/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
