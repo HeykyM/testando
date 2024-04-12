@@ -1,4 +1,4 @@
-# <img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='60' align='left'><h1 align="center"> Bleachpedia </h1>![Static Badge](https://img.shields.io/badge/Status%20-%20Em%20desenvolvimento%20-%20%23eead2d)
+# <img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='60' align='left'><h1 align="center"> Bleachpedia </h1>
 ![Static Badge](https://img.shields.io/badge/Status%20-%20Em%20desenvolvimento%20-%20%23eead2d)
 
 
