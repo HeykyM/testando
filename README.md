@@ -1,16 +1,5 @@
 # <img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='60' align='left'><h1 align="center"> Bleachpedia </h1>
 
-## Indíce 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [O que é Bleachpedia?](#o-que-e-bleachpedia)
-* [Ferramentas Utilizadas](#ferramentas-utilizadas)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Canais para contato](#canais-para-contato)
-* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
-  
   ##  O que é Bleachpedia?
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
