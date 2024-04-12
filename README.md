@@ -11,18 +11,7 @@
 * [Canais para contato](#canais-para-contato)
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
   
-##  O que é Bleachpedia?
 
-O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
-
-- **Personagens:** Ao clicar direciona o usuário a uma página onde tera acesso a botões de cada personagem, onde ao clicar, exibe uma pequena descrição do personagem e suas habilidades.
-- **História:** Ao clicar direciona o usuário a uma página onde tem um pequeno resumo da história.
-- **Jogos:** Ao clicar direciona o usuário a uma página onde exibe os jogos da franquia com pequenos trailers.
-- **Mangá:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos capítulos do Mangá.
-- **Anime:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos Episódios do Anime.
-- **Novel:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos capítulos do Mangá.
-- **Trailer:** Botão onde ao clicar abre uma tela onde exibe um vídeo do trailer da animação.
-- **Redes Sociais:** Botões onde ao clicar direcionam o usuário as redes sociais da página.
 
 
 
@@ -70,3 +59,16 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
     <td><a href="https://github.com/galdinoposeidon"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDsKYpwlG5bq5XcqPr-DrL3T_NZneoqaXI1PO4P8R-9KP1yJEPNK-dIoZL2w-zfPipgc&usqp=CAU" width="90" heigth="26" ></a></td>
       <td><a href="https://www.linkedin.com/in/miguel-galdino-silva-477758260/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="90" height="26"></a></td>
   </tr>
+
+  ##  O que é Bleachpedia?
+
+O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
+
+- **Personagens:** Ao clicar direciona o usuário a uma página onde tera acesso a botões de cada personagem, onde ao clicar, exibe uma pequena descrição do personagem e suas habilidades.
+- **História:** Ao clicar direciona o usuário a uma página onde tem um pequeno resumo da história.
+- **Jogos:** Ao clicar direciona o usuário a uma página onde exibe os jogos da franquia com pequenos trailers.
+- **Mangá:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos capítulos do Mangá.
+- **Anime:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos Episódios do Anime.
+- **Novel:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos capítulos do Mangá.
+- **Trailer:** Botão onde ao clicar abre uma tela onde exibe um vídeo do trailer da animação.
+- **Redes Sociais:** Botões onde ao clicar direcionam o usuário as redes sociais da página.
