@@ -5,16 +5,13 @@
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [O que é Bleachpedia?](#o-que-é-bleachpedia?)
+* [Ferramentas Utilizadas](#ferramentas utilizadas)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Canais para contato](#canais-para-contato)
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
   
-##  O que é Bleachpédia?
+##  O que é Bleachpedia?
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
 
