@@ -4,20 +4,21 @@
 
   ##  O que é Bleachpedia?
 
-O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach, como:
-
-- **Personagens:** Ao clicar direciona o usuário a uma página onde tera acesso a botões de cada personagem, onde ao clicar, exibe uma pequena descrição do personagem e suas habilidades.
-- **História:** Ao clicar direciona o usuário a uma página onde tem um pequeno resumo da história.
-- **Jogos:** Ao clicar direciona o usuário a uma página onde exibe os jogos da franquia com pequenos trailers.
-- **Mangá:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos capítulos do Mangá.
-- **Anime:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos Episódios do Anime.
-- **Novel:** Botão onde ao clicar direciona a uma página onde o usuário tem acesso aos capítulos do Mangá.
-- **Trailer:** Botão onde ao clicar abre uma tela onde exibe um vídeo do trailer da animação.
-- **Redes Sociais:** Botões onde ao clicar direcionam o usuário as redes sociais da página.
-
+O Bleachpedia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach.
 O Bleachpédia é construído de uma forma de fácil entendimento, para que o usuário possa encontrar facilmente todo tipo de informações sobre Bleach, como história, personagens, anime, mangá, novel e jogos.
 
 Nós lançamos o Bleachpédia para apoiar a animação e a comunidade, e também para que os amantes e aqueles que ainda não conhecem Bleach, possam se aprofundar ainda mais na história e nos personagens.
+  
+  ##  O que iremos abordar?
+
+- **Personagens:** O usuário terá acesso as informações dos personagens da animação, podendo se aprofundar mais sobre suas características e habilidades.
+- **História:** O usuário terá acesso a um resumo da história de Bleach, podendo entender do que se trata a animação.
+- **Jogos:** O usuário poderá ver os jogos da franquia, com breve informações, podendo até mesmo ver trailers de cada jogo.
+- **Mangá:** O usuário terá acesso aos capítulos do mangá.
+- **Anime:** O usuário terá acesso aos episódios do anime.
+- **Novel:** O usuário terá acesso aos capítulos da novel.
+- **Trailer:** Na página inicial o usuário terá um botão onde ao clicar, exibira em sua tela, um trailer da animação.
+- **Redes Sociais:** Disponibilizamos ao usuário as redes sociais da página.
 
 <h3>Ferramentas Utilizadas</h3>
 
