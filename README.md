@@ -6,7 +6,7 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [O que é Bleachpedia?](#o-que-é-bleachpedia?)
-* [Ferramentas Utilizadas](#ferramentas utilizadas)
+* [Ferramentas Utilizadas](#ferramentas-utilizadas)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Canais para contato](#canais-para-contato)
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
