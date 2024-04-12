@@ -1,4 +1,4 @@
-# <img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='60' align='left'> Bleachpedia 
+# <img src='https://i.pinimg.com/originals/d8/56/20/d856206d9ed1ffd5ad500ff56e1b86d7.png' width='60' align='left'><h1 align="center"> Bleachpedia </h1>
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
