@@ -5,7 +5,7 @@
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [O que é Bleachpedia?](#o-que-e-bleachpedia?)
+* [O que é Bleachpedia?](#o-que-e-bleachpedia)
 * [Ferramentas Utilizadas](#ferramentas-utilizadas)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Canais para contato](#canais-para-contato)
